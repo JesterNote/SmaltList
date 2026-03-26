@@ -1,0 +1,18 @@
+{
+    "id": 115535649,
+    "name": "Type Bizzle",
+    "author": "LevelUploader",
+    "creators": ["NumberedWater25", "Creator2", "Creator3"],
+    "verifier": "NumberedWater25",
+    "verification": "https://x.com/NumberedWater/status/1894898145466675298",
+    "percentToQualify": 56,
+    "password": "None",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
