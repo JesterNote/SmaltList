@@ -1,11 +1,24 @@
 {
-    "id": 115535649,
+    "id": 57436521,
     "name": "Type Bizzle",
     "author": "TheReturnedOne",
-    "creators": [],
+    "creators": ["TheReturnedOne"],
     "verifier": "TheReturnedOne",
-    "verifacation": "https://youtu.be/CjvJ-aidLfA",
+    "verification": "https://youtu.be/CjvJ-aidLfA",
     "percentToQualify": "100",
-    "password": "free to copy",
-    "records": []
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "WWDonut",
+            "link": "https://youtu.be/CjvJ-aidLfA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
 }
